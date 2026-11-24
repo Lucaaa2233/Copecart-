@@ -1,0 +1,6 @@
+# Wird mit "xcodegen generate" erzeugt
+*.xcodeproj/
+xcuserdata/
+DerivedData/
+build/
+.DS_Store
